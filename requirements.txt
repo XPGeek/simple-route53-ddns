@@ -1,0 +1,6 @@
+argparse
+boto3
+ipaddress
+logging
+requests
+time
